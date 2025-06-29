@@ -1,2 +1,2 @@
-# Bank_Loan_Analysis_Project
+# Bank_Loan_Analysis
 THIS IS BFSI DOMAIN END TO END PROJECT
